@@ -20,7 +20,6 @@ contract ElevatorHack {
             return false;
         }
         else{
-            contador++;
             return true;
         }
     }
